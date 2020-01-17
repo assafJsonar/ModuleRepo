@@ -1,3 +1,6 @@
 [submodule "/home/assaf/Repository/TestModuleRepo"]
 	path = /home/assaf/Repository/TestModuleRepo
 	url = git@github.com:assafJsonar/ModuleRepo.git
+[submodule "pizpon/pizi"]
+	path = pizpon/pizi
+	url = git@github.com:jsonar/cmake.git
